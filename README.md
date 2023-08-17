@@ -1,5 +1,5 @@
 -  Hi, I’m James (Ford) McElroy
--  I’m interested in math (algebra, discrete, geometry, data,...) and maps (travel, optimization, weather, cities, geography...)
+-  I’m interested in math (discrete, algebra, topology, geometry, data,...) and maps (travel, optimization, weather, cities, geography...)
 -  I’m currently learning Python
 -  My email is jfmcelroy@uky.edu
 
